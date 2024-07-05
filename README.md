@@ -1,4 +1,4 @@
-# Welcome to HPE NonStop 
+# Welcome to HPE NonStop POC
 
 This git repository is the new public home of examples applications for NonStop products.
 
